@@ -11,3 +11,4 @@ python3 app.py
 
 ## Іске қосу
 python3 app.py
+Poll SCM test.
